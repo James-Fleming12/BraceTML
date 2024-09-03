@@ -1,6 +1,6 @@
 def mappings() -> dict:
     return {
-        "header": ("<header>", "</header>"),
+        "head": ("<head>", "</head>"),
         "body": ("<body>", "</body>"), 
         "h1": ("<h1>", "</h1>")
     }
