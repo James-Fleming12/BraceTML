@@ -9,6 +9,17 @@ body {
     }
 }
 ```
+should compile to the following
+```html
+<!DOCTYPE html>
+<head>
+    <title>My Title</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+```
+
 
 ## To Be Implemented:
 - [ ] Basic Markup
